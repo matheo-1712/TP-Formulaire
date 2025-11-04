@@ -6,11 +6,18 @@ function old(array $src, string $key, string $default=''): string {
 
 /* --------- Lecture CSV associatif --------- */
 function read_dinos_csv(string $path): array {
-
-
-  $rows = [];
-
-  return $rows;
+    $data = [];
+    $handle = fopen($path, 'r');
+    if ($handle) {
+        while (($row = fgetcsv($handle, 0, ';')) !== false) {
+            foreach ($row as $i => $col) {
+                $data[$i][$col] = $col;
+            }
+        }
+        fclose($handle);
+        return $data;
+    }
+    return [];
 }
 
 /* --------- Chargement du CSV --------- */
