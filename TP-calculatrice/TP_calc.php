@@ -59,7 +59,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!-- Créer un formulaire vers cette page -->
 <form action="TP_calc.php" method="post">
     <!--champ A + message d'erreur sous le champ -->
-    <input type="text" name="a" value="<?php echo old($_POST, 'a'); ?>">
+    <label>
+        <input type="text" name="a" value="<?php echo old($_POST, 'a'); ?>">
+    </label>
     <section class="error"><?php echo $errors['ab'] ?? ''; ?></section>
     <!-- select pour l'opérateur limité à + - * / -->
     <label>
@@ -72,7 +74,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </label>
     <section class="error"><?php echo $errors['op'] ?? ''; ?></section>
     <!-- champ B + message d'erreur sous le champ -->
-    <input type="text" name="b" value="<?php echo old($_POST, 'b'); ?>">
+    <label>
+        <input type="text" name="b" value="<?php echo old($_POST, 'b'); ?>">
+    </label>
     <section class="error"><?php echo $errors['b'] ?? ''; ?></section>
     <!-- Bouton de soumission -->
     <input type="submit" value="Calculer">
