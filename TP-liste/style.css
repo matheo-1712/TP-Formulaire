@@ -1,0 +1,8 @@
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:900px;margin:2rem}
+h1{margin-bottom:0.2rem} .hint{color:#777}
+form{display:grid;gap:.75rem;margin:1rem 0}
+label{display:grid;gap:.3rem}
+input,textarea,select,button{padding:.5rem;font-size:1rem}
+.result{background:#f6f6f6;border:1px solid #eee;padding:1rem;border-radius:8px}
+.error{color:#b00020} .ok{color:#0a7a2a}
+nav a{margin-right:1rem}

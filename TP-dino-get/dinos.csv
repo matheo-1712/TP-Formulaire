@@ -1,0 +1,92 @@
+name;era;diet;weight_tons;notes
+Tyrannosaurus rex;Crétacé;Carnivore;8.0;Roi des lézards tyrans
+Triceratops;Crétacé;Herbivore;6.0;Trois cornes imposantes
+Velociraptor;Crétacé;Carnivore;0.015;Bien plus petit qu’au cinéma
+Brachiosaurus;Jurassique;Herbivore;30.0;Cou très long, géant placide
+Stegosaurus;Jurassique;Herbivore;5.0;Plates dorsales iconiques
+Allosaurus;Jurassique;Carnivore;2.3;Prédateur agile
+Spinosaurus;Crétacé;Carnivore;7.0;Museau de crocodile, semi-aquatique
+Ankylosaurus;Crétacé;Herbivore;6.0;Queue massue, cuirasse osseuse
+Pachycephalosaurus;Crétacé;Herbivore;0.45;Crâne épaissi pour les duels
+Plateosaurus;Trias;Herbivore;4.0;Grand herbivore du Trias
+Diplodocus;Jurassique;Herbivore;15.0;Très longue queue
+Apatosaurus;Jurassique;Herbivore;23.0;Massif sauropode
+Camarasaurus;Jurassique;Herbivore;18.0;Museau carré
+Compsognathus;Jurassique;Carnivore;0.003;Très petit chasseur
+Iguanodon;Crétacé;Herbivore;3.0;Pouce épineux
+Parasaurolophus;Crétacé;Herbivore;2.5;Crête tubulaire sonore
+Edmontosaurus;Crétacé;Herbivore;3.5;Hadrosaure robuste
+Corythosaurus;Crétacé;Herbivore;3.1;Crête en casque
+Maiasaura;Crétacé;Herbivore;2.7;“Bonne mère lézard”
+Pachyrhinosaurus;Crétacé;Herbivore;2.0;Bossettes nasales
+Torosaurus;Crétacé;Herbivore;6.5;Grande collerette perforée
+Styracosaurus;Crétacé;Herbivore;3.0;Grande corne nasale
+Kentrosaurus;Jurassique;Herbivore;2.0;Plaques et pointes
+Dryosaurus;Jurassique;Herbivore;0.08;Coureur rapide
+Ceratosaurus;Jurassique;Carnivore;1.0;Cornes nasales
+Megalosaurus;Jurassique;Carnivore;1.1;Premier dinosaure décrit
+Suchomimus;Crétacé;Carnivore;3.5;Museau piscivore
+Baryonyx;Crétacé;Carnivore;1.7;Griffe géante
+Therizinosaurus;Crétacé;Omnivore;3.0;Griffes immenses, régime varié
+Deinonychus;Crétacé;Carnivore;0.08;Rapace vif
+Oviraptor;Crétacé;Omnivore;0.02;Nom trompeur, régime varié
+Troodon;Crétacé;Omnivore;0.05;Grandes orbites
+Gallimimus;Crétacé;Omnivore;0.2;Coureur autruche
+Ornithomimus;Crétacé;Omnivore;0.15;Bec sans dents
+Microceratus;Crétacé;Herbivore;0.01;Petit cératopsien
+Protoceratops;Crétacé;Herbivore;0.18;Col frangé
+Psittacosaurus;Crétacé;Herbivore;0.025;Bec de perroquet
+Saurolophus;Crétacé;Herbivore;2.8;Crête solide
+Shantungosaurus;Crétacé;Herbivore;15.0;Très grand hadrosaure
+Euoplocephalus;Crétacé;Herbivore;2.5;Cuirasse et massue
+Nodosaurus;Crétacé;Herbivore;1.8;Ankylosauridé sans massue
+Sauropelta;Crétacé;Herbivore;1.5;Épines latérales
+Rhabdodon;Crétacé;Herbivore;0.5;Ornithopode européen
+Dreadnoughtus;Crétacé;Herbivore;50.0;Titanosaure colossal
+Giganotosaurus;Crétacé;Carnivore;8.2;Très grand théropode
+Carnotaurus;Crétacé;Carnivore;1.5;Cornes au-dessus des yeux
+Gorgosaurus;Crétacé;Carnivore;2.5;Tyrannosauridé gracile
+Albertosaurus;Crétacé;Carnivore;2.0;Proche de Gorgosaurus
+Tarbosaurus;Crétacé;Carnivore;5.0;Cousin asiatique du T. rex
+Mononykus;Crétacé;Omnivore;0.004;Bras courts, insectivore probable
+Gigantoraptor;Crétacé;Omnivore;1.4;Oviraptorosaure géant
+Utahraptor;Crétacé;Carnivore;0.5;Grand droméosaure
+Acrocanthosaurus;Crétacé;Carnivore;5.5;Voûtes neurales hautes
+Carcharodontosaurus;Crétacé;Carnivore;6.5;Dents de requin
+Abelisaurus;Crétacé;Carnivore;1.2;Théropode sud-américain
+Argentinosaurus;Crétacé;Herbivore;70.0;Peut-être le plus massif
+Herrerasaurus;Trias;Carnivore;0.35;Théropode primitif
+Coelophysis;Trias;Carnivore;0.02;Grégaire et élancé
+Eoraptor;Trias;Omnivore;0.01;Très primitif
+Musaurus;Trias;Herbivore;0.07;“Lézard souris” juvénile célèbre
+Massospondylus;Jurassique;Herbivore;1.0;Prosauropode élancé
+Heterodontosaurus;Jurassique;Omnivore;0.02;Dentition variée
+Lesothosaurus;Jurassique;Herbivore;0.01;Petit ornithischien
+Ichthyovenator;Crétacé;Piscivore;2.5;Spinosauridé asiatique, chasseur de poissons
+Siamosaurus;Crétacé;Piscivore;3.0;Spinosauridé de Thaïlande au museau allongé
+Ceratosuchops;Crétacé;Piscivore;1.1;Spinosauriné européen associé aux milieux aquatiques
+Riparovenator;Crétacé;Piscivore;1.2;Spinosauriné britannique proche de Ceratosuchops
+Halszkaraptor;Crétacé;Piscivore;0.015;Théropode semi-aquatique au long cou, probable pêcheur
+Deinocheirus;Crétacé;Omnivore;6.4;Énormes bras griffus, régime varié incluant plantes et poissons
+Mamenchisaurus;Jurassique;Herbivore;20.0;Sauropode au cou exceptionnellement long
+Camptosaurus;Jurassique;Herbivore;0.9;Ornithopode de taille moyenne
+Dilophosaurus;Jurassique;Carnivore;0.5;Deux crêtes fines sur le crâne
+Cryolophosaurus;Jurassique;Carnivore;0.7;Crête frontale, découvert en Antarctique
+Shunosaurus;Jurassique;Herbivore;10.0;Sauropode doté d’une massue caudale
+Metriacanthosaurus;Jurassique;Carnivore;1.0;Théropode de taille moyenne européen
+Huayangosaurus;Jurassique;Herbivore;0.5;Petit stégosaurien chinois
+Therizinosaurus;Crétacé;Omnivore;3.0;Griffes géantes, régime varié
+Yi qi;Jurassique;Insectivore;0.002;Petit dinosaure à membranes planantes découvert en Chine (2015)
+Kulindadromeus;Jurassique;Herbivore;0.005;Premier dinosaure à plumes non avien connu, trouvé en Sibérie (2014)
+Zuul crurivastator;Crétacé;Herbivore;2.0;Ankylosaure canadien superbement conservé, découvert en 2017
+Dracoraptor;Jurassique;Carnivore;0.03;Théropode gallois du Jurassique inférieur décrit en 2016
+Murusraptor;Crétacé;Carnivore;2.2;Théropode sud-américain de la famille des mégaraptoridés (2016)
+Austroraptor;Crétacé;Carnivore;0.4;Droméosaure patagonien à museau allongé, décrit en 2008
+Changyuraptor;Crétacé;Carnivore;0.005;Microraptor ailé à longue queue, découvert en 2014
+Zhenyuanlong;Crétacé;Carnivore;0.02;Droméosaure à plumes courtes découvert en Chine (2015)
+Beipiaosaurus;Crétacé;Omnivore;0.3;Thérizinosaure à plumes primitives, décrit en 1999 et confirmé en 2014
+Pegomastax;Jurassique;Herbivore;0.002;Petit ornithischien à bec, redécrit en 2012
+Tianyulong;Crétacé;Herbivore;0.004;Petit ornithopode à filaments cutanés, découvert en 2009
+Qianzhousaurus;Crétacé;Carnivore;2.5;« Pinocchio rex », tyrannosauridé au museau allongé décrit en 2014
+Llukalkan;Crétacé;Carnivore;1.5;Abelisauridé sud-américain récemment identifié (2021)
+Natovenator;Crétacé;Piscivore;0.03;Théropode semi-aquatique aux côtes fuselées découvert en 2022
